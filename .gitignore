@@ -1,2 +1,7 @@
-*.exe
+# ignore files
 random_text.txt
+CPPLINT.cfg
+
+# ignore directories
+.PVS-Studio/
+cmake-build*/

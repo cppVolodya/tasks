@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="count_words_in_a_string" targetName="count_words_in_a_string" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="debug" ENABLED="true" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="release-visual_studio" ENABLED="true" CONFIG_NAME="Release" TOOLCHAIN_NAME="visual_studio_default" />
+      <configuration PROFILE_NAME="debug-wsl_valgrind" ENABLED="true" CONFIG_NAME="Debug" TOOLCHAIN_NAME="wsl_default" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d72d9528-bcd2-4fe4-83c5-9ff3bc303a66" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../rss_feed_reader/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../rss_feed_reader/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rss_feed_reader/forms/main_window.ui" beforeDir="false" afterPath="$PROJECT_DIR$/../rss_feed_reader/forms/main_window.ui" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:debug-wsl_valgrind" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2.1" />
+  </component>
+  <component name="ProjectId" id="2ECu1Z1q289exEHlQZCCumh4Jfk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/FilesUsers/user_volodya/direction_in_my_life/programming/my_projects/text/count_words_in_a_string",
+    "settings.editor.selected.configurable": "CMakeSettings"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="count_words_in_a_string" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="count_words_in_a_string" TARGET_NAME="count_words_in_a_string" CONFIG_NAME="debug" RUN_TARGET_PROJECT_NAME="count_words_in_a_string" RUN_TARGET_NAME="count_words_in_a_string">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d72d9528-bcd2-4fe4-83c5-9ff3bc303a66" name="Changes" comment="" />
+      <created>1662111672980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662111672980</updated>
+      <workItem from="1662111674304" duration="177000" />
+      <workItem from="1662120094634" duration="6000" />
+      <workItem from="1662325022805" duration="474000" />
+      <workItem from="1665869772255" duration="111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

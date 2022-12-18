@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="check_if_palindrome" targetName="check_if_palindrome" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="debug" ENABLED="true" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="release-visual_studio" ENABLED="true" CONFIG_NAME="Release" TOOLCHAIN_NAME="visual_studio_default" />
+      <configuration PROFILE_NAME="debug-wsl_valgrind" ENABLED="true" CONFIG_NAME="Debug" TOOLCHAIN_NAME="wsl_default" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3905a5ad-8348-4747-8eb5-f76294a36f84" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../count_vowels/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../count_vowels/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../count_words_in_a_string/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../count_words_in_a_string/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pig_latin/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../pig_latin/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rss_feed_reader/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../rss_feed_reader/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rss_feed_reader/forms/main_window.ui" beforeDir="false" afterPath="$PROJECT_DIR$/../rss_feed_reader/forms/main_window.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rss_feed_reader/generated_files/ui_main_window.h" beforeDir="false" afterPath="$PROJECT_DIR$/../rss_feed_reader/generated_files/ui_main_window.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rss_feed_reader/headers/main_window.h" beforeDir="false" afterPath="$PROJECT_DIR$/../rss_feed_reader/headers/main_window.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rss_feed_reader/sources/main_window.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../rss_feed_reader/sources/main_window.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text_editor/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../text_editor/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text_editor/config/text_editor.rc" beforeDir="false" afterPath="$PROJECT_DIR$/../text_editor/config/text_editor.rc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text_editor/forms/main_window.ui" beforeDir="false" afterPath="$PROJECT_DIR$/../text_editor/forms/main_window.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text_editor/generated_files/ui_main_window.h" beforeDir="false" afterPath="$PROJECT_DIR$/../text_editor/generated_files/ui_main_window.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text_editor/headers/main_window.h" beforeDir="false" afterPath="$PROJECT_DIR$/../text_editor/headers/main_window.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text_editor/headers/status_bar.h" beforeDir="false" afterPath="$PROJECT_DIR$/../text_editor/headers/status_bar.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text_editor/resource.qrc" beforeDir="false" afterPath="$PROJECT_DIR$/../text_editor/resource.qrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text_editor/sources/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../text_editor/sources/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text_editor/sources/main_window.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../text_editor/sources/main_window.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text_editor/sources/status_bar.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../text_editor/sources/status_bar.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../text_editor/text_editor.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../text_editor/text_editor.pro" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="2.1" />
+  </component>
+  <component name="ProjectId" id="2ECtkABG32VJvuVqwVbbNHonwsi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/home/volodya/user_volodya/direction_in_my_life/programming/my_projects/clion/study",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "CMakeSettings"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="check_if_palindrome" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="check_if_palindrome" TARGET_NAME="check_if_palindrome" CONFIG_NAME="debug" RUN_TARGET_PROJECT_NAME="check_if_palindrome" RUN_TARGET_NAME="check_if_palindrome">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3905a5ad-8348-4747-8eb5-f76294a36f84" name="Changes" comment="" />
+      <created>1662111534987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662111534987</updated>
+      <workItem from="1662111536300" duration="136000" />
+      <workItem from="1662120052202" duration="36000" />
+      <workItem from="1662324751028" duration="226000" />
+      <workItem from="1667734590673" duration="678000" />
+      <workItem from="1667755685519" duration="170000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
