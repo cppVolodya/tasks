@@ -1,7 +1,7 @@
 # ignore files
 random_text.txt
-CPPLINT.cfg
 
 # ignore directories
+.idea/
 .PVS-Studio/
 cmake-build*/
